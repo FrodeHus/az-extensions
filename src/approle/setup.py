@@ -45,7 +45,7 @@ setup(
     description="Microsoft Azure Command-Line Tools Approle Extension",
     author="Frode Hus",
     author_email="frode.hus@outlook.com",
-    url="https://github.com/Azure/azure-cli-extensions",
+    url="https://github.com/frodehus/az-extensions",
     long_description=README + "\n\n" + HISTORY,
     license="MIT",
     classifiers=CLASSIFIERS,
